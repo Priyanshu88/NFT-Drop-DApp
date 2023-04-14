@@ -67,7 +67,7 @@ This is fully reponsive NFT collections website using Tailwind CSS. It has authe
  <a href="https://nft-drop-d-app.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/232077697-802596c4-c923-43dd-9d82-2c637c0a0f21.png' alt='image'/></a>
  </div>
 
-
+<br/>
 
 - NFTs Page 
 
@@ -78,7 +78,7 @@ This is fully reponsive NFT collections website using Tailwind CSS. It has authe
  </div>
 
 
-
+<br/>
 - Sanity Studio 
 
 
@@ -86,7 +86,7 @@ This is fully reponsive NFT collections website using Tailwind CSS. It has authe
  <a href="https://nft-drop-d-app.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/232078845-a105fecb-659a-4b49-b076-493ae0b2b2b9.png' alt='image'/></a>
  </div>
 
-
+<br/>
  
 ### :video_camera: Demo
 
@@ -114,7 +114,6 @@ This is fully reponsive NFT collections website using Tailwind CSS. It has authe
   <ul>
     <li><a href="https://thirdweb.com/">Thirdweb</a></li>
     <li><a href="https://portal.thirdweb.com/pre-built-contracts/nft-collection">Thirdweb NFT Collections</a></li>
-    
     <li><a href="https://www.sanity.io/">Sanity CMS</a></li>
 
   </ul>
