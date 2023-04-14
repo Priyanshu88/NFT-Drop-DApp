@@ -64,7 +64,7 @@ This is fully reponsive NFT collections website using Tailwind CSS. It has authe
 
 
 <div align="center"> 
- <a href="https://nft-drop-d-app.vercel.app/" target="_blank"><img  src='' alt='image'/></a>
+ <a href="https://nft-drop-d-app.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/232077697-802596c4-c923-43dd-9d82-2c637c0a0f21.png' alt='image'/></a>
  </div>
 
 
@@ -74,10 +74,19 @@ This is fully reponsive NFT collections website using Tailwind CSS. It has authe
 
 
 <div align="center"> 
- <a href="https://nft-drop-d-app.vercel.app/" target="_blank"><img  src='' alt='image'/></a>
+ <a href="https://nft-drop-d-app.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/232077895-52c6086c-8ff0-4710-876f-28ae493b4e38.png' alt='image'/></a>
  </div>
- 
- 
+
+
+
+- Sanity Studio 
+
+
+ <div align="center"> 
+ <a href="https://nft-drop-d-app.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/232078845-a105fecb-659a-4b49-b076-493ae0b2b2b9.png' alt='image'/></a>
+ </div>
+
+
  
 ### :video_camera: Demo
 
@@ -251,6 +260,14 @@ sanity init
 ```
 select Blog(Schema).
 
+### To Deploy Sanity CMS run
+
+
+```
+sanity deploy
+```
+
+
 Install dependencies
 
 <a href="https://github.com/Priyanshu88/NFT-Drop-DApp/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
@@ -260,12 +277,19 @@ Install dependencies
 
 ### :radioactive: Smart Contract and Thirdweb Deployment
 
+
+<div align="center">
+<a href="#instagram"><img src="https://markcubancompanies.com/wp-content/uploads/2022/08/Thirdweb-Logo-Transparent-Black.png" alt="Instagram" width="" height="30" /></a>
+</div>
+
+
 Checkout the NFT Drop Smart Contract [HERE](https://thirdweb.com/thirdweb.eth/DropERC721)
 
-Now, login thirdweb with MetaMask account and create release and deploy on Polygon MATIC Testnet.
+Now, login thirdweb with MetaMask account and deploy on Polygon MATIC Testnet.
 
 Collect MATIC from [HERE](https://faucet.polygon.technology/).
 
+You can add your NFTs using Metadata or create one by one and set the settings according to your convenience.
 
 Checkout my Deployment [HERE](https://thirdweb.com/mumbai/0x4953B010545074942624Af2dFA9321aFe4fB39ad)
  
@@ -369,7 +393,7 @@ Project Link: [https://github.com/Priyanshu88/NFT-Drop-DApp.git](https://github.
 <hr />
 
 <div align="center">
-<a href="https://nft-drop-d-app.vercel.app/" target="_blank"><img  src='' alt='image'/></a>
+<a href="https://nft-drop-d-app.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/232077697-802596c4-c923-43dd-9d82-2c637c0a0f21.png' alt='image'/></a>
 </div>
 
 <br />
