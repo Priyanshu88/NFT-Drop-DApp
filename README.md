@@ -79,6 +79,7 @@ This is fully reponsive NFT collections website using Tailwind CSS. It has authe
 
 
 <br/>
+
 - Sanity Studio 
 
 
