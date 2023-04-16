@@ -92,6 +92,14 @@ This is fully reponsive NFT collections website using Tailwind CSS. It has authe
 ### :video_camera: Demo
 
 
+
+
+https://user-images.githubusercontent.com/86107841/232314982-816108bb-01ac-4e29-b5d3-fff5c9da7efd.mp4
+
+
+
+
+
 ## <a href="https://nft-drop-d-app.vercel.app/" target="_blank">LIVE DEMO 💥</a>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
